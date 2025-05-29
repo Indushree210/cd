@@ -91,7 +91,7 @@
                     <archive> 
                         <manifest> 
                             <addClasspath>true</addClasspath> 
-                            <mainClass>com.example.App</mainClass> 
+                            <mainClass>com.mvit.App</mainClass> 
                         </manifest> 
                     </archive> 
                 </configuration> 
